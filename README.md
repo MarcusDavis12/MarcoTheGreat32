@@ -21,13 +21,13 @@
 <tr>
 <td width="33%" valign="top">
 
-<h3 align="center">01 / TECH STACK</h3>
+<h3 align="center">01 / TECHNOLOGIES</h3>
 <p align="center"><sub>TOOLS THAT POWER THE JOURNEY</sub></p>
 
 **FRONTEND**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=3"
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=3"
        alt="HTML, CSS, JavaScript, React" />
 </p>
 
